@@ -1,0 +1,9 @@
+fg1 = 230khz
+fg2 = 250khz
+
+fd1 = fd2 = 1.5hz
+
+izoblicenje 1 - 1.5v
+izobicenje 2 - 1.7v
+
+1 => 15v , 2 => 18v
