@@ -1,0 +1,9 @@
+otpornici - obicni(metal film) osim 0.33(keramicki) i potenciometra
+2n3055 i mj2955 u to3 kucistu + hladnjak
+2n3904 u to92 kucistu
+BD139-16 i bd-140 u to126 kucistu
+zvucnik 4ohm
+svi kondenzatori elektrolitski
+opamp tl072 - IC TL072CP
+lab napajanje
+(dodatno kolo sa 220ohm)
