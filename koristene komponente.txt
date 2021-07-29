@@ -7,3 +7,4 @@ svi kondenzatori elektrolitski
 opamp tl072 - IC TL072CP
 lab napajanje
 (dodatno kolo sa 220ohm)
+protobord - kratkospojnici - krokodil hvataljke
